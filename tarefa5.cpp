@@ -13,8 +13,7 @@ int main() {
     }
 
     return 0;
-}
-Neste programa, o usuário insere o peso da pessoa e o programa verifica se o peso é menor do que 60 kg, imprimindo a mensagem correspondente.
+
 
 
 
